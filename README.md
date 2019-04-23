@@ -16,3 +16,5 @@ This is training for today
 
 Hopefully this is detailed enough 
 
+This will close the issue 
+
