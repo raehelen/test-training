@@ -11,3 +11,6 @@ What's wrong with this sequence :question:
 
 ## 1, 3, 5, 8, 9, 11
 
+
+This is training for today 
+
