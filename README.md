@@ -14,3 +14,5 @@ What's wrong with this sequence :question:
 
 This is training for today 
 
+Hopefully this is detailed enough 
+
