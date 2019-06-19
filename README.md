@@ -23,3 +23,6 @@ This is some extra training
 
 added today
 
+
+Fancy way of closing 
+
