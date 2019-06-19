@@ -19,10 +19,4 @@ Hopefully this is detailed enough
 This will close the issue 
 
 
-This is some extra training
-
-added today
-
-
-Fancy way of closing 
-
+This is some extra training added today
